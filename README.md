@@ -1,3 +1,11 @@
+# next-lint-on-commit
+
+A boilerplate for Next.js projects that lints staged code before committing it.
+
+Accompanying blogpost and tutorial [here](https://hashnode.com/draft/60ee956efc37a15ec156a08a).
+
+# Next.js README
+
 This is a [Next.js](https://nextjs.org/) project bootstrapped with [`create-next-app`](https://github.com/vercel/next.js/tree/canary/packages/create-next-app).
 
 ## Getting Started
